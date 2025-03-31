@@ -1,8 +1,7 @@
 # Marketing Cloud Automation Inventory
 
 Have you ever found yourself sifting through countless automations and activities trying to locate where a particular Data Extension is used within Salesforce Marketing Cloud? 
-This solution can streamline this process, enabling you to efficiently pinpoint automations by keywords and manage them effectively. You can use it for migrating/updating process for example.
-This package includes all essential components, such as Data Extensions, a Polyfill, an Automation, and a Script Activity.
+This solution can streamline the process, enabling you to deeply research automation activities by keywords in the name, input, query text, or output. It can be used, for example, to migrate or update processes.
 
 ## Package Components:
 ### Data Extensions:
