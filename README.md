@@ -20,11 +20,12 @@ This package includes all essential components, such as Data Extensions, a Polyf
 
 ## Deployment Steps:
 ### Import the Package:
-1. Using Marketing Cloud menu, navigate to **Platform**, then **Package Manager**.
-2. Click **Deployment**.
-3. Under the Deployment tab, hit **Deploy**.
-4. Click **Upload**, **Done**, **Next**, verify if all items are being created and click **Deploy**.
-5. Wait until it is complete and hit **Done**.
+1. Donwload the JSON file in this repository.
+2. Using Marketing Cloud menu, navigate to **Platform**, then **Package Manager**.
+3. Click **Deployment**.
+4. Under the Deployment tab, hit **Deploy**.
+5. Click **Upload**, select the JSON file that you downloaded from this repository, click **Done**, **Next**, verify if all items are being created and click **Deploy**.
+6. Wait until it is complete and hit **Done**.
 
 ### Validate Installation:
 - Check that all components listed are correctly installed in their respective sections.
